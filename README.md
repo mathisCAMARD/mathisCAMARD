@@ -25,7 +25,7 @@ computer networks and web technologies. I'm also in internatonal sector, that me
 
   <br/>
     <a href="https://github.com/mathisCAMARD/github-readme-stats"><img alt="Mathis Camard's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mathisCAMARD&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/mathisCAMARD/github-readme-stats"><img alt="mathisCAMARD's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathisCAMARD&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/mathisCAMARD/github-readme-stats"><img alt="Mathis Camard's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathisCAMARD&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
 <br/>
