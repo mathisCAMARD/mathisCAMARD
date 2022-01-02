@@ -4,11 +4,10 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍ I'm currently in informatics systems, cyber-security and big data major in m'y school. I'm learning stuffs about operating system, data base, operational development, 
-computer networks and web technologies. I'm also in internatonal sector, that means all my classes are in english.
+- 👨‍ I'm currently in informatics systems, cyber-security and big data major in my school. I'm learning stuffs about operating system, data base, operational development, computer networks and web technologies. I'm also in internatonal sector, that means all my classes are in english.
 - 🔭 I’m currently working on m'y school projects 
 - 🌱 I’m currently learning JavaScript / Nodejs 
-- ⚡ Fun fact: I made an an exchange semester at kyungpook national university in South Korea. 
+- ⚡ Fun fact: I made an exchange semester at kyungpook national university in South Korea. 
 
 ## 🚀 Languages and Tools:
 <span><img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
