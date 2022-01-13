@@ -5,9 +5,9 @@
 ## 🙋‍♂️ About Me
 
 - 👨‍ I'm currently in informatics systems, cyber-security and big data major in m'y school. I'm learning stuffs about operating system, data base, operational development, 
-computer networks and web technologies. I'm also in internatonal sector, that means all my classes are in english.
+computer networks and web technologies.
 - 🔭 I’m currently working on m'y school projects 
-- 🌱 I’m currently learning JavaScript / Nodejs 
+- 🌱 I’m currently learning Machine learning & python
 - ⚡ Fun fact: I made an an exchange semester at kyungpook national university in South Korea. 
 
 ## 🚀 Languages and Tools:
